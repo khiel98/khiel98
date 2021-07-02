@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khiel98
-- 👀 I’m interested in nature and music
-- 🌱 I’m currently learning on Digital Innovation One
+- 👀 I like nature and music
+- 🌱 I’m currently learning at Digital Innovation One
 
 
 <!---
